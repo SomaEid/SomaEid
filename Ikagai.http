@@ -1,0 +1,6 @@
+@Ikagai_HostAddress = https://localhost:5182
+
+GET {{Ikagai_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
